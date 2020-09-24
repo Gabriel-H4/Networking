@@ -9,4 +9,4 @@ Pi-Hole Forums
 * https://discourse.pi-hole.net
 
 Pi-Hole Adlists
-* [Adlist-URLs](Gabriel-H4/pihole/Adlist-URLs)
+* [Adlist-URLs](AdlistURLs)
