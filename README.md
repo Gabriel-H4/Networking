@@ -1,5 +1,5 @@
 # pihole
-All things Pi-Hole for Gabe
+All things Pi-Hole for Gabe's personal use
 
 # URLs
 Pi-Hole Main Website
