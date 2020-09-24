@@ -1,0 +1,28 @@
+# Title: custom-blacklist
+#
+# Gabriel's custom blacklist file for Pi-Hole
+#
+# =============== Go-Guardian ==================
+#
+#
+beacon-fullpage-predictor.goguardian.com
+countvoncount.goguardian.com
+ip.goguardian.com
+ext.goguardian.com
+inquisition.goguardian.com
+panther.goguardian.com
+quiddity.goguardian.com
+sakura.goguardian.com
+screenshots.goguardian.com
+snat.goguardian.com
+sockjs-goguardian.pusher.com
+ws-goguardian.pusher.com
+x3-policy-maker.goguardian.com
+x3-predictor.goguardian.com
+waluigi.goguardian.com
+#
+#
+# =============== Ads ==================
+#
+#
+server.cpmstar.com
