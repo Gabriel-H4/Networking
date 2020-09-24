@@ -9,4 +9,4 @@ Pi-Hole Forums
 * https://discourse.pi-hole.net
 
 Pi-Hole Adlists
-* [AdlistURLs.md](AdlistURLs)
+* [/AdlistURLs.md](AdlistURLs)
