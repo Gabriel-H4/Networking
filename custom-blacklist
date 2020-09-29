@@ -26,3 +26,12 @@ waluigi.goguardian.com
 #
 #
 server.cpmstar.com
+#
+#
+# =============== Restricted websites ==================
+#
+#
+strict.bing.com
+restrict.youtube.com
+#
+#
