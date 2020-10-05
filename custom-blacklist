@@ -2,7 +2,7 @@
 #
 # Gabriel's custom blacklist file for Pi-Hole
 #
-# =============== Go-Guardian ==================
+# =========== Go-Guardian ==============
 #
 #
 beacon-fullpage-predictor.goguardian.com
@@ -28,10 +28,16 @@ waluigi.goguardian.com
 server.cpmstar.com
 #
 #
-# =============== Restricted websites ==================
+# ======== Restricted websites =========
 #
 #
 strict.bing.com
 restrict.youtube.com
+#
+#
+# ========= Potential Bad URLs =========
+#
+#
+adserver.va3.megaphone.cloud
 #
 #
