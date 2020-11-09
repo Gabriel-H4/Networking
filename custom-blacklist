@@ -36,6 +36,22 @@ strict.bing.com
 restrict.youtube.com
 #
 #
+# ============ Windows URLs =============
+#
+#
+(^|\.)msedge\.net$
+blobs.officehome.msocdn.com
+cdn.onenote.net
+checkappexec.microsoft.com
+da.xboxservices.com
+# ^ is for Edge apparantly...
+g.live.com
+maps.windows.com
+oneclient.sfx.ms
+ris.api.iris.microsoft.com
+www.bing.com
+#
+#
 # ============ Youtube Ads ==============
 #
 #
