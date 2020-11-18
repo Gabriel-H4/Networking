@@ -42,7 +42,6 @@ restrict.youtube.com
 (^|\.)msedge\.net$
 blobs.officehome.msocdn.com
 cdn.onenote.net
-checkappexec.microsoft.com
 da.xboxservices.com
 # ^ is for Edge apparantly...
 g.live.com
