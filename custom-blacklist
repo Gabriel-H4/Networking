@@ -68,6 +68,6 @@ ads-pres.channel4.com
 v.fwmrm.netv.fwmrm.net
 manifest.googlevideo.com
 googlesyndication.com
-^r+.\.googlevideo.com$
+(^r+.\.)googlevideo\.com$
 #
 #
