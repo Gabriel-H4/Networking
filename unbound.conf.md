@@ -1,4 +1,5 @@
 unbound.conf   [plain text]
+```
 #
 # Example configuration file.
 #
@@ -607,3 +608,4 @@ remote-control:
     forward-addr: 1.0.0.1
 # 	name: "example.org"
 # 	forward-host: fwd.example.com
+```
