@@ -3,8 +3,8 @@ All things Pi-Hole for our homelab setup
 
 ## URLs
 Pi-Hole Main Website / Forums
-* https://pi-hole.net/
-* https://discourse.pi-hole.net
+* [Pi-Hole Website](https://pi-hole.net)
+* [Pi-Hole Forums](https://discourse.pi-hole.net)
 
 Pi-Hole Adlists
 * [Adlist URLs](AdlistURLs.md)
