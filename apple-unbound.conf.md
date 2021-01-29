@@ -1,4 +1,4 @@
-unbound.conf   [plain text]
+Apple OpenSource Docs' Unbound Conf   [plain text]
 ```
 #
 # Example configuration file.
