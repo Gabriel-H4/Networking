@@ -1,3 +1,5 @@
+** UNDER REVIEW **
+```
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 activity.windows.com
 albert.apple.com
@@ -6,11 +8,14 @@ android.clients.google.com
 api.facebook.com
 app.plex.tv
 appldnld.apple.com
+apple.com
 appleid.apple.com
+appleiphonecell.com
 apresolve.spotify.com
 b-api.facebook.com
 b-graph.facebook.com
 bigzipfiles.facebook.com
+bit.ly
 c.amazon-adsystem.com
 c.s-microsoft.com
 captive.apple.com
@@ -98,6 +103,7 @@ metrics.icloud.com
 metrics.plex.tv
 mqtt.c10r.facebook.com
 msftncsi.com
+msftncsi.com
 msmetrics.ws.sonos.com
 nine.plugins.plexapp.com
 node.plexapp.com
@@ -116,6 +122,7 @@ osrecovery.apple.com
 outlook.office365.com
 placehold.it
 placeholdit.imgix.net
+plex.tv
 plex.tv
 portal.fb.com
 ppq.apple.com
@@ -171,9 +178,5 @@ video-stats.video.google.com
 videos.vidible.tv
 viewer.content.glympse.com
 vpp.itunes.apple.com
-www.apple.com
-www.appleiphonecell.com
-www.bit.ly
-www.msftncsi.com
-www.plex.tv
 xp.apple.com
+```
