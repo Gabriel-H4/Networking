@@ -42,7 +42,7 @@ restrict.youtube.com
 # ============ Windows URLs =============
 #
 #
-(^|.*\.)msedge
+(^|.*\.)msedge\.net$
 blobs.officehome.msocdn.com
 cdn.onenote.net
 da.xboxservices.com
@@ -64,12 +64,12 @@ fp.msedge.net
 # ============ Youtube Ads ==============
 #
 #
-(^|.*\.)samsungads
+(^|.*\.)samsungads\.com$
 ads-pres.channel4.com
 ads-pres.channel4.com
 v.fwmrm.netv.fwmrm.net
 manifest.googlevideo.com
 googlesyndication.com
-(^r+.\.)googlevideo
+(^r+.\.)googlevideo\.com$
 #
 #
