@@ -26,7 +26,7 @@ waluigi.goguardian.com
 #
 #
 server.cpmstar.com
-pagead2.googlesyndication.com
+^pagead[:digit:]\.googlesyndication\.com$
 notifier.rarlab.com
 api-glb-use2b.smoot.apple.com
 wd.adcolony.xyz
@@ -42,7 +42,7 @@ restrict.youtube.com
 # ============ Windows URLs =============
 #
 #
-*\.msedge\.net
+(^|\.)[^.]+\.msedge\.net$
 blobs.officehome.msocdn.com
 cdn.onenote.net
 da.xboxservices.com
@@ -64,8 +64,7 @@ fp.msedge.net
 # ============ Youtube Ads ==============
 #
 #
-*\.samsungads\.com
-ads-pres.channel4.com
+(^|\.)[^.]+\.samsungads\.com$
 ads-pres.channel4.com
 v.fwmrm.netv.fwmrm.net
 manifest.googlevideo.com
