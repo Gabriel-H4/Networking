@@ -26,7 +26,7 @@ waluigi.goguardian.com
 #
 #
 server.cpmstar.com
-^pagead[:digit:]*\.googlesyndication\.com$
+pagead[\d]*\.googlesyndication\.com$
 notifier.rarlab.com
 api-glb-use2b.smoot.apple.com
 wd.adcolony.xyz
